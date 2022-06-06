@@ -2,13 +2,11 @@
 <root>
     <preferences>
         <preference>
-            <first_name>Анна</first_name>
-            <parent_name>Юрьевна</parent_name>
-            <last_name>Суворова</last_name>
-            <age>38</age>
-            <number_of_pets>1</number_of_pets>
-            <future_salary>2000</future_salary>
-            <salary_currency>"USD"</salary_currency>
+            <favourite_film>The Matrix</favourite_film>
+            <favourite_series>Big Bang Theory</favourite_series>
+            <favourite_food>strawberries, grilled meat, eclair</favourite_food>
+            <favourite_season>summer"</favourite_season>
+            <dream_country>Spain</dream_country>
         <preference>
     <preferences>
 </root>
