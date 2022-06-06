@@ -1,0 +1,15 @@
+<xml version="1.0" encoding="UTF-8"?>
+<root>
+    <preferences>
+        <preference>
+            <first_name>Анна</first_name>
+            <parent_name>Юрьевна</parent_name>
+            <last_name>Суворова</last_name>
+            <age>38</age>
+            <number_of_pets>1</number_of_pets>
+            <future_salary>2000</future_salary>
+            <salary_currency>"USD"</salary_currency>
+        <preference>
+    <preferences>
+</root>
+</xml>
